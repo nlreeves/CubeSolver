@@ -13,3 +13,7 @@ button {
     font-size: 16px;
     border: 2px solid black
   }
+
+  caption {
+    font-family:Arial, Helvetica, sans-serif
+  }
